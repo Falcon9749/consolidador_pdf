@@ -1,1 +1,1 @@
-Prograsminha simples de consolidador de PDF
+Programinha simples, consolidador de PDF
