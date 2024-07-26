@@ -2,7 +2,7 @@
 import os
 import pypdf
 
-os.chdir("C:\\caminha_da_pasta")
+os.chdir("C:\\caminho_da_pasta")
 
 pdf_destino = pypdf.PdfWriter()
 
