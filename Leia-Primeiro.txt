@@ -1,0 +1,41 @@
+Olá!
+
+Obrigado por baixar o aplicativo "JuntaPDFs" — criado por Gilnei Monteiro.
+
+📌 SOBRE O APLICATIVO:
+Este programa permite que você selecione arquivos PDF na ordem que desejar e, ao final, gera um único PDF com todos combinados.
+
+✅ Seguro e sem instalação.
+✅ Não coleta nenhuma informação.
+✅ Funciona 100% offline.
+
+---
+
+⚠ AVISO IMPORTANTE:
+
+Ao executar pela primeira vez, o Windows pode exibir alertas como:
+"Aplicativo potencialmente perigoso" ou "Desconhecido".
+
+📢 Isso acontece porque o aplicativo ainda não possui assinatura digital (como uma empresa grande teria). Isso NÃO significa que ele é perigoso.
+
+Para continuar:
+
+1. Clique em **Mais informações**
+2. Depois clique em **Executar mesmo assim**
+
+---
+
+🔧 Requisitos:
+- Windows 10 ou superior
+- Nenhuma instalação adicional é necessária
+
+---
+
+💬 Suporte:
+Se tiver dúvidas ou sugestões, fale comigo:
+Email: gilneimonteiro73@gmail.com  
+site: www.falcon.dev.br
+
+Obrigado por confiar no meu trabalho! 🙏
+
+— Gilnei Monteiro
