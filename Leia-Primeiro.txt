@@ -4,8 +4,11 @@ Obrigado por baixar o aplicativo "JuntaPDFs" — criado por Gilnei Monteiro.
 
 📌 SOBRE O APLICATIVO:
 Este programa permite que você selecione arquivos PDF na ordem que desejar e, ao final, gera um único PDF com todos combinados.
+E tambem pode separar um PDF em partes ou apenas tirar as paginas que desejar.
 
-✅ Seguro e sem instalação.
+---
+
+✅ Seguro e pode usar o executavel na past dist ou o instalador na pasta Output.
 ✅ Não coleta nenhuma informação.
 ✅ Funciona 100% offline.
 

@@ -1,3 +1,9 @@
+"""
+App desenvolvido por Gilnei Monteiro
+Licença: MIT License
+Copyright (c) 2025 Gilnei Monteiro
+"""
+
 # pip install ttkbootstrap PyPDF2
 
 import os
