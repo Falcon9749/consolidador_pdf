@@ -5,10 +5,11 @@ Obrigado por baixar o aplicativo "JuntaPDFs" — criado por Gilnei Monteiro.
 📌 SOBRE O APLICATIVO:
 Este programa permite que você selecione arquivos PDF na ordem que desejar e, ao final, gera um único PDF com todos combinados.
 E tambem pode separar um PDF em partes ou apenas tirar as paginas que desejar.
+Tem uma versão com Log de erros e uma sem para você escolher.
 
 ---
 
-✅ Seguro e pode usar o executavel na past dist ou o instalador na pasta Output.
+✅ Seguro e pode usar o executavel na pasta dist.
 ✅ Não coleta nenhuma informação.
 ✅ Funciona 100% offline.
 
@@ -19,7 +20,8 @@ E tambem pode separar um PDF em partes ou apenas tirar as paginas que desejar.
 Ao executar pela primeira vez, o Windows pode exibir alertas como:
 "Aplicativo potencialmente perigoso" ou "Desconhecido".
 
-📢 Isso acontece porque o aplicativo ainda não possui assinatura digital (como uma empresa grande teria). Isso NÃO significa que ele é perigoso.
+📢 Isso acontece porque o aplicativo ainda não possui assinatura digital (como uma empresa grande teria). 
+* Isso NÃO significa que ele é perigoso. *
 
 Para continuar:
 
