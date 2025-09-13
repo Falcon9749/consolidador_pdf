@@ -121,8 +121,8 @@ class PDFMergerApp:
         btn_frame.pack(pady=12)
         tb.Button(btn_frame, text="➕ Adicionar", bootstyle="info-outline", width=18, command=self.add_pdf).pack(side=tk.LEFT, padx=5)
         tb.Button(btn_frame, text="❌ Remover", bootstyle="danger-outline", width=14, command=self.remove_selected).pack(side=tk.LEFT, padx=5)
-        tb.Button(btn_frame, text="⬆️ Cima", bootstyle="secondary", width=10, command=self.move_up).pack(side=tk.LEFT, padx=5)
-        tb.Button(btn_frame, text="⬇️ Baixo", bootstyle="secondary", width=10, command=self.move_down).pack(side=tk.LEFT, padx=5)
+        tb.Button(btn_frame, text="⬆️ Acima", bootstyle="secondary", width=10, command=self.move_up).pack(side=tk.LEFT, padx=5)
+        tb.Button(btn_frame, text="⬇️ Abaixo", bootstyle="secondary", width=10, command=self.move_down).pack(side=tk.LEFT, padx=5)
 
         # Botões inferiores
         bottom_frame = tb.Frame(self.app_frame)
