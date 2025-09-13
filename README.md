@@ -18,7 +18,7 @@ Inclui tela inicial com **licença MIT**, log de erros e interface moderna.
 
 ---
 
-## Executaveis
+## 🖼 Executaveis
 
 Pode baixar só o executavel para testar.
 tem 3 versões
